@@ -1,0 +1,5 @@
+./cwdt-calculator.spec
+./cwdt-helper.zip
+./dist/*
+./build/*
+./__pycache/*

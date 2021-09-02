@@ -1,0 +1,1 @@
+{"phy_dmg_reduction": "35", "inc_dmg_taken": "0", "minion_num1": "3", "minion_num2": "4", "cwdt_rate": "7", "cwdt_damage_taken": "2864"}
